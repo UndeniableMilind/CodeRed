@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeRed/static/css/main.0fd67080.css",
+    "main.js": "/CodeRed/static/js/main.2962901a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CodeRed/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/CodeRed/index.html",
+    "main.0fd67080.css.map": "/CodeRed/static/css/main.0fd67080.css.map",
+    "main.2962901a.js.map": "/CodeRed/static/js/main.2962901a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CodeRed/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fd67080.css",
+    "static/js/main.2962901a.js"
+  ]
+}
